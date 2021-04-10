@@ -6,6 +6,7 @@ Problem statement:-
 
 Solution applied:-
 	This data is fit into a model and the following outlier detection modules are applied on it:
+	
 	• Local Outlier Factor
 	• Isolation Forest 
 	
@@ -25,6 +26,7 @@ Conclusion:-
 	I learned alot of this from Eduonix Learning Solutions.
 
 Any references used :- 
+
 	• google.com
 	• kaggle.com
 	
