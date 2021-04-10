@@ -14,17 +14,17 @@ Solution applied:-
 Results:-
 	 For each algorithm is given in the output as follows, where class 0 means the transaction was determined to be valid and 1 means it was determined as a fraud transaction.
 
-	Isolation Forest: 17
-	Accurancy Score : 0.9939089931924041
+	• Isolation Forest: 17
+	• Accurancy Score : 0.9939089931924041
 
-	Local Outlier Factor: 21
-	Accurancy Score : 0.9924758151200287
+	• Local Outlier Factor: 21
+	• Accurancy Score : 0.9924758151200287
 
 Conclusion:-
-	The algorithm does reach over 99.2% accuracy
+	The algorithm does reach over 99.2% accuracy.
 	I learned alot of this from Eduonix Learning Solutions.
 
 Any references used :- 
-	google.com
-	kaggle.com
+	• google.com
+	• kaggle.com
 	
